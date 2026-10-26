@@ -1,0 +1,1 @@
+Install requirements, then run `python demo.py`. Four generated images are written to artifacts/. No external dataset or private photos are needed. The synthetic example illustrates operations, not disease detection or learned computer vision.
